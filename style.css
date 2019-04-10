@@ -1,0 +1,47 @@
+body {
+    background-image: url( "https://www.scalevp.com/sites/default/files/designbig.jpg");
+}
+h1 {
+    color: rgb(219, 84, 174);
+    font-family: "Courier New", Times, serif;
+    text-align: center;
+}
+h2 {
+    color: rgb(150, 172, 218);
+    font-family: "Verdana", Times, serif;
+    text-align: center;
+}
+h3{
+    color:rgb(150, 172, 218);
+    font-family: "Verdana", Times, serif;
+    text-align: center;
+}
+h4 {
+    color:rgb(150, 172, 218);
+    font-family: "Verdana", Times, serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 40%;
+    position: fixed;
+    top: 45%;
+    left: 30%;
+    right: 30%;  
+  }
+
+h5 {
+    color:rgb(150, 172, 218);
+    font-family: "Verdana", Times, serif;    
+    align-content: center;
+    font-size: large;
+}  
+
+h6 {
+    color:rgb(150, 172, 218);
+    font-family: "Verdana", Times, serif;
+    text-align: center;
+    font-size: large;
+}
+

@@ -1,0 +1,20 @@
+General Physics
+Classical Mechanics
+Electromagnetic Theory
+Thermodynamics and Statistical Mechanics
+Quantum Mechanics
+Intermediate Experimental Physics
+Intermediate Physics I
+Intermediate Physics II
+Calculus I
+Calculus II
+Multivariable Calculus
+Linear Algebra
+Differential Equations
+Physics Colloquium
+Mathematical Physics|elective
+Classical Mechanics-II|elective
+Electromagnetic Theory-II|elective
+Computational Methods in Science and Research|elective
+Introduction to Solid State Physics|elective
+Introduction to Computer Science|elective

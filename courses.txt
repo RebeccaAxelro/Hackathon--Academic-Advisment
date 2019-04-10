@@ -1,0 +1,56 @@
+Composition and Rhetoric|Modes of Expression
+Writing About Advertising in Academic Prose|Modes of Expression
+Speech Communication|Modes of Expression
+Principles of Economics|ECON|Foundations of History, Philosophy and Social Sciences
+The Emergence of Europe|HIST|Foundations of History, Philosophy and Social Sciences
+Ideas of History I|HIST|Foundations of History, Philosophy and Social Sciences
+Ancient & Medieval Philosophy|PHIL|Foundations of History, Philosophy and Social Sciences
+Philosophy of Art|PHIL|Foundations of History, Philosophy and Social Sciences
+Classical Political Philosophy|PHIL|Foundations of History, Philosophy and Social Sciences
+Ancient & Medieval Philo|POLI 2492|Foundations of History, Philosophy and Social Sciences
+Introductory Psychology|PSYC|Foundations of History, Philosophy and Social Sciences
+Introduction to Sociology|SOCI|Foundations of History, Philosophy and Social Sciences
+Introduction to Anthropology:The Human Adventure|SOCI|Foundations of History, Philosophy and Social Sciences
+Introduction to Art|ARTS|Interpreting Literature and the Arts
+History of Art I|ARTS|Interpreting Literature and the Arts
+History of Art II|ARTS|Interpreting Literature and the Arts
+NYC Architecture &Urban Design|ARTS|Interpreting Literature and the Arts
+Philosophy & Criticism of Art| ARTS|Interpreting Literature and the Arts
+Ways of Reading|ENGL|Interpreting Literature and the Arts
+Survey of British Lit II|ENGL|Interpreting Literature and the Arts
+Survey of British Lit lll|ENGL|Interpreting Literature and the Arts
+Survey of American Lit I|ENGL|Interpreting Literature and the Arts
+Women & Literature|ENGL|Interpreting Literature and the Arts
+Modernism|ENGL|Interpreting Literature and the Arts
+Literature and Visual Arts in the Twentieth Century|ENGL|Interpreting Literature and the Arts
+Intermediate French II|FREN|Interpreting Literature and the Arts
+Sense of Music|MUSI|Interpreting Literature and the Arts
+Music: Romantic & Modern Eras|MUSI 1351|Interpreting Literature and the Arts
+Intermediate Spanish I|SPAN|Interpreting Literature and the Arts
+Intermediate Macroeconomics|ECON|Contemporary US and Global Perspectives
+Money and Banking|ECON|Contemporary US and Global Perspectives
+European His:Anti-Semitism|HIST|Contemporary US and Global Perspectives
+History of Palestine|HIST|Contemporary US and Global Perspectives
+Media Revolutions: From Scroll to Screen|HIST|Contemporary US and Global Perspectives
+Piracy & the Nation State|HIST|Contemporary US and Global Perspectives
+Immigrant Nations: US & Israel|HIST|Contemporary US and Global Perspectives
+Science and Religion|PHIL|Contemporary US and Global Perspectives
+Public Policy|POLI|Contemporary US and Global Perspectives
+Introduction to Comparative Politics|POLI|Contemporary US and Global Perspectives
+Fundamentals of Politics Science|POLI|Contemporary US and Global Perspectives
+Essentials of the U.S. Legal System|POLI|Contemporary US and Global Perspectives
+Compar Amer & Talmud Law|POLI|Contemporary US and Global Perspectives
+East Asian Politics|POLI|Contemporary US and Global Perspectives
+Weapons Mass Destruction|POLI|Contemporary US and Global Perspectives
+Peace & War|POLI|Contemporary US and Global Perspectives
+Biology Principles|Science and Technology
+General Chemistry|Science and Technology
+General Physics I|Science and Technology
+Science:Fundmntl & Application|Science and Technology
+Programming for Non-CS majors|Quantitative Skills
+Intro to Computer Science|Quantitative Skills
+Excursions in Mathematics|Quantitative Skills
+Elementary Functions: Pre-Calc|Quantitative Skills
+Fundamentals of Calculus|Quantitative Skills
+Calculus I|Quantitative Skills
+Intro to Statistics|Quantitative Skills

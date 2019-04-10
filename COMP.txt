@@ -1,0 +1,13 @@
+Introduction to Computer Science
+Data Structures
+Discrete Structures
+Computer Systems
+Algorithms
+Database Systems
+Programming Languages
+Object-Oriented Software Design
+Calculus I
+Calculus II
+Linear Algebra
+Linux Programming for Data Analysis
+Web Programming & Development
