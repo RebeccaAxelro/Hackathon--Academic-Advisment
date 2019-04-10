@@ -1,3 +1,14 @@
-Go to right directory: /Users/RivkaAxelrod/Documents/Documents - Rivka’s MacBook Pro (2)/Hackathon
+This program creates a website to help a student manage their courses. 
+The program takes into account the major of the student as well as the coure requirments needed.
+This program is implemented in HTML, CSS, and PHP.
+This project was done by me at a Hackathon: even though my teammates gave up, I stayed up all night learning new langueges (HTML, CSS, and PHP)
+and how to implement them into my project.
+My goal was to create an environment for a student that is stylish and user friendly. 
+Figuring out the courses you still need can be a stressful experience, this website is to make it as easy and calm as possible.
 
+- This project is still in process to take in more majors and take into account the core classes the student has already taken.
+
+To get it to work:
+Go into the right folder in terminal
 In terminal: php -S localhost:8000
+In browser: http://localhost:8000/hello.php
